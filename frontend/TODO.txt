@@ -1,0 +1,2 @@
+use nextjs image tags
+replace class with className
